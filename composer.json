@@ -1,0 +1,22 @@
+{
+  "name": "peternicholls/Nacho",
+  "description": "Nacho, nacho man. I want to be a nacho man.",
+  "license": "MIT",
+  "keywords": ["nacho"],
+  "version": "0.0.1",
+  "authors": [
+    {
+      "name": "Peter Nicholls",
+      "email": "peter@peternicholls.co.uk"
+    }
+  ],
+  "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "4.0.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "PeterNicholls\\Nacho\\": "src"
+    }
+  }
+}
